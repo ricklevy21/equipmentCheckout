@@ -1,0 +1,29 @@
+{
+  "name": "equipmentcheckout",
+  "version": "1.0.0",
+  "description": "an app for checking out and tracking equipment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricklevy21/equipmentCheckout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricklevy21/equipmentCheckout/issues"
+  },
+  "homepage": "https://github.com/ricklevy21/equipmentCheckout#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
